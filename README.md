@@ -2,9 +2,6 @@
 
 A single-page management dashboard: a clear, non-technical overview of Sales, Profit, Products, Orders, Order Status, Payment, Fulfillment, and Geographic performance — all in one place.
 
-# LIVE LINK FOR  THE DASHBOARD:
-The required link: https://919ddc5c2e82a1.lhr.life
-
 Implements the four sections spec:
 
 | # | Section | What it shows |
